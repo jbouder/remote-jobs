@@ -445,6 +445,7 @@ Name | Website | Region
 [MetaLab](/company-profiles/metalab.md) | https://metalab.co | Worldwide
 [MetaMask](/company-profiles/metamask.md) | https://metamask.io | Worldwide
 [MeteorOps](/company-profiles/meteorops.md) | https://meteorops.com | Worldwide
+[MetroStar](/company-profiles/metrostar.md) | https://metrostar.com | USA
 [Microsoft](/company-profiles/microsoft.md) | https://www.microsoft.com/ | Worldwide
 [Mindful](/company-profiles/mindful.md) | https://getmindful.com/ | Worldwide
 [Mixcloud](/company-profiles/mixcloud.md)| https://www.mixcloud.com/ | Europe
